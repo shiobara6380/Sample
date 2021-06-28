@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="change_name">Change!!</string>
+    <string name="message_name">こんにちは</string>
+</resources>
